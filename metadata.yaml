@@ -1,0 +1,50 @@
+_repo: Tales-of-Three-Hemispheres_11440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: "Tales of Three Hemispheres is a collection of fantasy short stories\
+  \ by Lord Dunsany. The first edition was published in Boston by John W. Luce & Co.\
+  \ in November, 1919; the first British edition was published in London by T. Fisher\
+  \ Unwin in June, 1920.\nThe collection's significance in the history of fantasy\
+  \ literature was recognized by its republication in a new edition by Owlswick Press\
+  \ in 1976, with illustrations by Tim Kirk and a foreword by H. P. Lovecraft, actually\
+  \ a general article on Dunsany's work originally written by Lovecraft in 1922, but\
+  \ unpublished until it appeared in his posthumous Marginalia (Arkham House, 1944).\n\
+  The book collects 14 short pieces by Dunsany; the last three, under the general\
+  \ heading \"Beyond the Fields We Know,\" are related tales, as explained in the\
+  \ publisher's note preceding the first, \"Idle Days on the Yann,\" which was previously\
+  \ published in the author's earlier collection A Dreamer's Tales, but reprinted\
+  \ in the current one owing to the relationship.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11440'
+  wikidata: Q7679363
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The last dream of Bwona Khubla -- How the office of postman fell
+  vacant in Otford-under-the-Wold -- The prayer of Boob Aheera -- East and West --
+  A pretty quarrel -- How the gods avenged Meoul Ki Ning -- The gifts of the gods
+  -- The sack of emeralds -- The old brown coat -- An archive of the older mysteries
+  -- A city of wonder -- Beyond the fields we know -- Publisher's note -- Idle Days
+  on the Yann -- A shop in Go-By Street -- The avenger of Perdóndaris.
+title: Tales of Three Hemispheres
+url: http://www.gutenberg.org/ebooks/11440
+wikipedia:
+- https://en.wikipedia.org/wiki/Tales_of_Three_Hemispheres
